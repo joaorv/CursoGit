@@ -1,7 +1,7 @@
 # CursoGit
-Primeiro repositório do curso de Git e Github
+Primeiro repositório do curso de **Git e Github**
 
 
-Repositório Criado
+*Repositório Criado*
 
-Adicionar Linha no site
+
